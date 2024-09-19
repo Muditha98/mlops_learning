@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Dhananjana/Desktop/ML_Projects/mlops_learning/mlruns/659682108487326604/46ecdfecbe93410cb8aeaf756de50419/artifacts
+end_time: 1726704897524
+entry_point_name: ''
+experiment_id: '659682108487326604'
+lifecycle_stage: active
+run_id: 46ecdfecbe93410cb8aeaf756de50419
+run_name: omniscient-midge-467
+run_uuid: 46ecdfecbe93410cb8aeaf756de50419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726704889857
+status: 3
+tags: []
+user_id: Dhananjana

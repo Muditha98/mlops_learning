@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Dhananjana/Desktop/ML_Projects/mlops_learning/mlruns/659682108487326604/dc8dad34e4004af9a167e8afcf309073/artifacts
+end_time: 1725734496865
+entry_point_name: ''
+experiment_id: '659682108487326604'
+lifecycle_stage: active
+run_id: dc8dad34e4004af9a167e8afcf309073
+run_name: legendary-hound-260
+run_uuid: dc8dad34e4004af9a167e8afcf309073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725734484170
+status: 3
+tags: []
+user_id: Dhananjana
